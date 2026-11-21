@@ -10,7 +10,7 @@ function danishPres() {
            if(nameInput.toLowerCase()==storedName && passwordInput===storedPassword){
             alert("login successful");
             let newInput = document.getElementById("input").value;
-            let v="danish"
+            
             
             // newInput.type = "integer";
             newInput = placeholder="Enter your city name";
